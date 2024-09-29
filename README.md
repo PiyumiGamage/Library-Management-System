@@ -3,8 +3,8 @@
 This project is a console-based Library Management System implemented in C++ that provides two main roles: **Admin** and **Librarian**. The system offers functionalities like managing books, borrowers, and fines, all handled efficiently using file operations.
 
 ## Features:
-- **Admin Account:**
-  1. Library login.(username=admin,pwd=****)
+- **Admin Account:**(username=admin,pwd=****)
+  1. Library login.
   2. Change the fine rate.
   3. Modify maximum borrowing limits.
 
